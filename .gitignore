@@ -1,3 +1,7 @@
+# Dirs #
+########
+tmp/*
+
 # Compiled source #
 ###################
 *.com
